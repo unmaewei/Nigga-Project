@@ -20,7 +20,7 @@
 #define nigga_two_colons  :: 
 
 //
-// end nigga degines
+// end nigga defines
 //
 
 //
@@ -28,7 +28,7 @@
 //
 
 //
-// nigga class
+// nigga namespace
 //
 namespace nigga
 {
